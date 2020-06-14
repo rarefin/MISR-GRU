@@ -38,8 +38,8 @@
      "num_epochs": 400,
      "batch_size": 16,
 
-     "min_L": 32,
-     "n_views": 32,
+     "min_L": 24,
+     "n_views": 24,
      "n_workers": 4,
      "crop": 3,
 
