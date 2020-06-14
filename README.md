@@ -2,17 +2,17 @@
 
 Pytorch implementation of MISR-GRU, a deep neural network for multi image super-resolution (MISR), for ProbaV Super Resolution Competition [European Space Agency's Kelvin competition](https://kelvins.esa.int/proba-v-super-resolution/home/).
 
-![alt Super Resolution](resources/Super-Resolution.gif)
+![Super Resolution](resources/Super-Resolution.gif)
 
 ## MISR-GRU Architecture
 
 ### *** Trained model is coming soon for download !!!
 
 
-![alt MISR-GRU Architecture](resources/MISR-GRU_architecture.pngstatus)
+![MISR-GRU Architecture](resources/MISR-GRU_architecture.png)
 
 ## Example of Super Resolution
-![alt Multi Image Super Resolution example](resources/example.jpg)
+![Multi Image Super Resolution example](resources/example.jpg)
 
 
 ## A recipe to enhance the vision of the ESA satellite Proba-V
