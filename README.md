@@ -55,3 +55,7 @@ python create_submission_file.py --config_file_path ../config.json
 #### 3. Submit result and check performance
 
 Although comepetetion is over but model performance [PROBA-V Super Resolution post mortem](https://kelvins.esa.int/proba-v-super-resolution-post-mortem/)
+
+## Authors
+
+[Md Rifat Arefin](https://www.linkedin.com/in/rifatarefin/), [Samira E. Kahou](https://twitter.com/samiraekahou?lang=en), [Vincent Michalski](https://twitter.com/v_michalski?lang=en-gb) [Alfredo Kalaitzis](https://github.com/alkalait)
