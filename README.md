@@ -6,7 +6,7 @@ Pytorch implementation of MISR-GRU, a deep neural network for multi image super-
 
 ## MISR-GRU Architecture
 
-### *** Trained model is coming soon for download !!!
+### *** Trained model is available to download (https://github.com/rarefin/MISR-GRU/blob/master/resources/MISR-GRU.pth)
 
 
 ![MISR-GRU Architecture](resources/MISR-GRU_architecture.png)
